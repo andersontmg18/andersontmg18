@@ -10,7 +10,7 @@ Software Engineering student at Western Governors University (WGU) with a passio
 - Full-stack development with Next.js & React Native
 - AWS cloud technologies
 - Backend APIs and databases
-- Software engineering interview preparation
+- Software engineering 
 
 ## 🛠 Tech Stack
 
