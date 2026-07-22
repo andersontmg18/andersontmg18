@@ -14,7 +14,7 @@ Software Engineering student at Western Governors University (WGU) with a passio
 
 ## 🛠 Tech Stack
 
-- Languages: Java, C#, Python, JavaScript, TypeScript
+- Languages: Java, Python, JavaScript, TypeScript, C,C++,#
 - Backend: Spring Boot, .NET, REST APIs, Microservices
 - Cloud: AWS (Lambda, EC2, DynamoDB, S3, API Gateway, IAM)
 - DevOps: Docker, Terraform, Git, CI/CD
