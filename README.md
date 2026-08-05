@@ -20,6 +20,7 @@ Software Engineering student at Western Governors University (WGU) with a passio
 - DevOps: Docker, Terraform, Git, CI/CD
 - Frontend: Angular,React Native / Expo
 - Git & GitHub
+- SQL, StoredProcedure
 
 ## 📜 Certifications
 - AWS Certified Developer – Associate
