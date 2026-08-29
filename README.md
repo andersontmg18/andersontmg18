@@ -2,7 +2,7 @@
 
 Software Engineering student at Western Governors University (WGU) with a passion for building scalable web and mobile applications.
 
-## 🌐 Live Production web Site link:
+## 🌐 Live Projects && Portfolio website :
 
 - World Explorer : https://andersontmg18.github.io/explorer/map
 
