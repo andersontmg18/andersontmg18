@@ -4,6 +4,8 @@ Software Engineering student at Western Governors University (WGU) with a passio
 
 ## 🌐 Live Projects & Portfolio website :
 
+- Island-website : https://andersontmg18.github.io/taniti-ux-redesign/
+
 - World Explorer : https://andersontmg18.github.io/explorer/map
 
 - State Web site :  https://andersontmg18.github.io/State_website/
